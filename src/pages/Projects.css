@@ -1,0 +1,15 @@
+.project {
+    width: 100%;
+    border: solid 3px green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightcoral;
+}
+
+
+.button {
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+}
